@@ -39,7 +39,6 @@ apis:
   - name: Non-Working Days
     description: "Database of ICS files for non working days"
     humanURL: https://github.com/gadael/icsdb
-    baseURL: https://github.com/gadael/icsdb
     tags:
       - Calendar
     properties:
